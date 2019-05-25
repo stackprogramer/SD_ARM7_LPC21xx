@@ -3,6 +3,7 @@ For more info see this link [stackprogramer blog](https://blog.stackprogramer.xy
 
 # List projects
 1-LedBlinking
+2-GLCD PG128128A-T6369c with LPC2105 [video](https://www.youtube.com/watch?v=KhRIQbye17A).
 
 
 
